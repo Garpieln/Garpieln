@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b> TEST Project (Software used)</b>
-  - [name project](https://www.linkedin.com/in/nathangarpiel/)
+  - [name project](https://github.com/Garpieln/ProjectNam)
 
 
 [linkedin]: https://linkedin.com/in/nathangarpiel
