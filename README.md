@@ -1,8 +1,5 @@
-
-[linkedin]: https://linkedin.com/in/nathangarpiel
-
 # Hello, I'm Nathan!
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="[https://linkedin.com](https://linkedin.com/in/nathangarpiel)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
