@@ -1,19 +1,12 @@
-<h1>Hey, I'm Nathan! <br/><a href="https://github.com/Garpieln">
-
-<h2>👨‍💻 Cybersecurity Projects:</h2>
-
-- <b> TEST Project (Software used)</b>
-  - [name project](https://github.com/Garpieln/ProjectNam)
-
 
 [linkedin]: https://linkedin.com/in/nathangarpiel
 
-# Hello, I'm CHANGEME
+# Hello, I'm Nathan!
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am transitioning into Cybersecurity from engineering/tech. I graduated from MSU with a Bachelors in Biosystems Engineering, and a minor in Comp Sci back in 2019. I worked in tech the past few years, triaging Autonomous Vehicle driving data and am now I am shifting lanes into the IT world on the security side. 
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
